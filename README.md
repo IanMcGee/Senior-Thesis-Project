@@ -9,65 +9,63 @@
 
 #### 1.0
 #### Use Case: Start screen
-#### Actors: 
-#### Overview: 
+#### Actors: Any user
+#### Overview: Start screen asks for name and houses the start button
 #### Typical Course of Events
-#### 1. 
-#### 2. 
-#### 3. 
+#### 1. put on VR headset
+#### 2. load game
 #### Alternative Courses
-#### Step ?:
-#### 1. 
-#### 2. 
+#### Step 1:end screen
+#### 1. select return to start screen 
 
 #### 2.0
 #### Use Case: Main Scene
-#### Actors: 
-#### Overview: 
+#### Actors: Any user
+#### Overview: main course with targets and weapons.
 #### Typical Course of Events
-#### 1. 
-#### 2. 
-#### 3. 
+#### 1. complete use case 1
+#### 2. enter name
+#### 3. press start button
+#### 4. load into course scene
 #### Alternative Courses
-#### Step ?:
-#### 1. 
-#### 2.
+#### Step 1:end screen
+#### 1. select restart course
 
 #### 3.0
 #### Use Case: End Scene
-#### Actors: 
-#### Overview: 
+#### Actors: User after completion of course
+#### Overview: displays name, time, accuracy, and reating. gives options to restart course or return to main menu.
 #### Typical Course of Events
-#### 1. 
-#### 2. 
-#### 3. 
+#### 1. complete use case 1
+#### 2. complete case 2
+#### 3. complete course
 #### Alternative Courses
-#### Step ?:
-#### 1. 
-#### 2.
+#### none
 
 #### 4.0
 #### Use Case: Gun usage
-#### Actors: 
-#### Overview: 
+#### Actors: Any user
+#### Overview: gun functionality.
 #### Typical Course of Events
-#### 1. 
-#### 2. 
-#### 3. 
+#### 1. complete case 1
+#### 2. complete case 2
+#### 3. look around for weapons
+#### 4. pick up gun
 #### Alternative Courses
-#### Step ?:
-#### 1. 
-#### 2.
+#### Step 1: if in end screen, select restart course
+#### 1. look around for weapons
+#### 2. pick up gun
 
 #### 5.0
 #### Use Case: Enemies fall
-#### Actors: 
-#### Overview: 
+#### Actors: user
+#### Overview: enemies fall when hit
 #### Typical Course of Events
-#### 1. 
-#### 2. 
-#### 3. 
+#### 1. complete case 1
+#### 2. complete case 2
+#### 3. complete case 4
+#### 4. shoot target
 #### Alternative Courses
-#### Step ?:
-#### 1. 
-#### 2.
+#### Step 1:if in end screen, select restart course
+#### 1. complete case 4
+#### 2. shoot target
