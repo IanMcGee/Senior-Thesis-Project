@@ -8,7 +8,7 @@
 ### Use Cases
 
 #### 1.0
-#### Use Case: 
+#### Use Case: Start screen
 #### Actors: 
 #### Overview: 
 #### Typical Course of Events
@@ -21,7 +21,7 @@
 #### 2. 
 
 #### 2.0
-#### Use Case: 
+#### Use Case: Main Scene
 #### Actors: 
 #### Overview: 
 #### Typical Course of Events
@@ -34,7 +34,7 @@
 #### 2.
 
 #### 3.0
-#### Use Case: 
+#### Use Case: End Scene
 #### Actors: 
 #### Overview: 
 #### Typical Course of Events
@@ -47,7 +47,20 @@
 #### 2.
 
 #### 4.0
-#### Use Case: 
+#### Use Case: Gun usage
+#### Actors: 
+#### Overview: 
+#### Typical Course of Events
+#### 1. 
+#### 2. 
+#### 3. 
+#### Alternative Courses
+#### Step ?:
+#### 1. 
+#### 2.
+
+#### 5.0
+#### Use Case: Enemies fall
 #### Actors: 
 #### Overview: 
 #### Typical Course of Events
